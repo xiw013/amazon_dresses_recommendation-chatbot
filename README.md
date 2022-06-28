@@ -7,5 +7,6 @@ The idea of this project was not to create some prefessional chatbot with except
 NLTK(Natural Language Toolkit) and the instruction of how to use this can be found here: https://www.nltk.org/
 Installation of NLTK: pip install nltk
 
+## How to run
 You can run the program through terminal by typing:
 python chatbot.py
